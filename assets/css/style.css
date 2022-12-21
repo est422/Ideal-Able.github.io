@@ -1151,7 +1151,7 @@ section {
 }
 
 .featured-services .icon-box:hover .title a {
-  color: #fff;
+  color: #222222;
 }
 
 .featured-services .description {
@@ -1982,7 +1982,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #fff;
+  color: #F28D2D;
   position: relative;
   font-family: "Poppins", sans-serif;
   padding: 0;
