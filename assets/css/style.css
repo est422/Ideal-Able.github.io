@@ -1146,12 +1146,12 @@ section {
 }
 
 .featured-services .title a {
-  color: #222222;
+  color: #575656;
   transition: 0.3s;
 }
 
 .featured-services .icon-box:hover .title a {
-  color: #222222;
+  color: #575656;
 }
 
 .featured-services .description {
